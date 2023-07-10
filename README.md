@@ -15,4 +15,4 @@ Repository for my ACCU 2023 presentations.
 
 * [Slides](https://github.com/vittorioromeo/accu2023/blob/main/emplacing_std_array.pdf)
 
-* [YouTube video]([TODO](https://www.youtube.com/watch?v=PfHD3BsVsAM)https://www.youtube.com/watch?v=PfHD3BsVsAM)
+* [YouTube video](https://www.youtube.com/watch?v=PfHD3BsVsAM)
